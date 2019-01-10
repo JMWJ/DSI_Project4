@@ -1,0 +1,10 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "11000" ,"District of Columbia",2,CAINC1,1,"...","Personal income (thousands of dollars)","Thousands of dollars",25670856,25838181,26173728,28509343,30275589,32037160,34497293,35533519,35803355,38513874,41968518,43621146,44369878,47302030,50946743,53040452,55510450
+ "11000" ,"District of Columbia",2,CAINC1,2,"...","Population (persons) 1/","Number of persons",574504,573158,568502,567754,567136,570681,574404,580236,592228,605040,620336,635630,650114,660797,672736,684336,693972
+ "11000" ,"District of Columbia",2,CAINC1,3,"...","Per capita personal income (dollars) 2/","Dollars",44684,45080,46040,50214,53383,56138,60058,61240,60455,63655,67654,68627,68249,71583,75731,77506,79989
+ "11001" ,"District of Columbia, DC",2,CAINC1,1,"...","Personal income (thousands of dollars)","Thousands of dollars",25670856,25838181,26173728,28509343,30275589,32037160,34497293,35533519,35803355,38513874,41968518,43621146,44369878,47302030,50946743,53040452,55510450
+ "11001" ,"District of Columbia, DC",2,CAINC1,2,"...","Population (persons) 1/","Number of persons",574504,573158,568502,567754,567136,570681,574404,580236,592228,605040,620336,635630,650114,660797,672736,684336,693972
+ "11001" ,"District of Columbia, DC",2,CAINC1,3,"...","Per capita personal income (dollars) 2/","Dollars",44684,45080,46040,50214,53383,56138,60058,61240,60455,63655,67654,68627,68249,71583,75731,77506,79989
+"Note: See the included footnote file."
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

@@ -1,0 +1,155 @@
+"CAINC5N Personal Income by Major Component and Earnings by NAICS Industry 1/"
+"(Thousands of dollars)" 
+"Bureau of Economic Analysis" 
+"County"
+"GeoFips","GeoName","LineCode","Description","2012","2013","2014","2015","2016","2017"
+"12005","Bay, FL","","Income by place of residence","","","","","",""
+"12005","Bay, FL","10","Personal income (thousands of dollars)",6429988,6521655,6929572,7342644,7562586,7796975
+"12005","Bay, FL","20","Population (persons) 2/",171755,174626,178221,181184,182992,183563
+"12005","Bay, FL","30","Per capita personal income (dollars)",37437,37346,38882,40526,41327,42476
+"12005","Bay, FL","","Derivation of personal income","","","","","",""
+"12005","Bay, FL","35","Earnings by place of work",4130940,4229494,4487884,4730122,4868275,4968070
+"12005","Bay, FL","36","  Less: Contributions for government social insurance 3/",438579,502425,532886,554520,572854,584809
+"12005","Bay, FL","37","    Employee and self-employed contributions for government social insurance",199050,260764,276454,291790,306026,315541
+"12005","Bay, FL","38","    Employer contributions for government social insurance",239529,241661,256432,262730,266828,269268
+"12005","Bay, FL","42","  Plus: Adjustment for residence 4/",-68057,-46903,-61529,-70506,-101708,-106205
+"12005","Bay, FL","45","  Equals: Net earnings by place of residence",3624304,3680166,3893469,4105096,4193713,4277056
+"12005","Bay, FL","46","  Plus: Dividends, interest, and rent 5/",1363716,1356403,1457520,1586217,1652915,1724445
+"12005","Bay, FL","47","  Plus: Personal current transfer receipts",1441968,1485086,1578583,1651331,1715958,1795474
+"12005","Bay, FL","","Earnings by place of work","","","","","",""
+"12005","Bay, FL","","Components of earnings","","","","","",""
+"12005","Bay, FL","50","  Wages and salaries",3008839,3080377,3286487,3460203,3594470,3659824
+"12005","Bay, FL","60","  Supplements to wages and salaries",780162,805636,837666,882889,883898,898679
+"12005","Bay, FL","61","    Employer contributions for employee pension and insurance funds 6/",540633,563975,581234,620159,617070,629411
+"12005","Bay, FL","62","    Employer contributions for government social insurance",239529,241661,256432,262730,266828,269268
+"12005","Bay, FL","70","  Proprietors' income 7/",341939,343481,363731,387030,389907,409567
+"12005","Bay, FL","71","    Farm proprietors' income",-82,-69,-56,-60,-60,-59
+"12005","Bay, FL","72","    Nonfarm proprietors' income",342021,343550,363787,387090,389967,409626
+"12005","Bay, FL","","Earnings by industry","","","","","",""
+"12005","Bay, FL","81","  Farm earnings",662,831,949,829,1084,996
+"12005","Bay, FL","82","  Nonfarm earnings",4130278,4228663,4486935,4729293,4867191,4967074
+"12005","Bay, FL","90","    Private nonfarm earnings",2973944,3111140,3292276,3496641,3618848,3681713
+"12005","Bay, FL","100","      Forestry, fishing, and related activities",17682,18589,19453,20479,"(D)",22354
+"12005","Bay, FL","101","        Forestry and logging",10092,10683,11873,12480,11651,12267
+"12005","Bay, FL","102","        Fishing, hunting and trapping","(D)",2036,1912,1984,"(D)","(D)"
+"12005","Bay, FL","103","        Support activities for agriculture and forestry","(D)",5870,5668,6015,5577,"(D)"
+"12005","Bay, FL","200","      Mining, quarrying, and oil and gas extraction",461,252,1468,2469,"(D)",4622
+"12005","Bay, FL","201","        Oil and gas extraction",232,80,230,371,707,2610
+"12005","Bay, FL","202","        Mining (except oil and gas)","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","203","        Support activities for mining","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","300","      Utilities",29928,32546,32182,35304,36482,34867
+"12005","Bay, FL","400","      Construction",229366,201043,216709,266530,303759,337889
+"12005","Bay, FL","401","        Construction of buildings",70197,30544,47080,61858,77683,94052
+"12005","Bay, FL","402","        Heavy and civil engineering construction",39886,38400,40150,55363,57648,57313
+"12005","Bay, FL","403","        Specialty trade contractors",119283,132099,129479,149309,168428,186524
+"12005","Bay, FL","500","      Manufacturing",213563,238691,255107,267849,278427,247568
+"12005","Bay, FL","510","        Durable goods manufacturing",146714,168556,176242,196389,203309,167208
+"12005","Bay, FL","511","          Wood product manufacturing",3689,3944,4707,5068,6596,6523
+"12005","Bay, FL","512","          Nonmetallic mineral product manufacturing",2820,3921,3972,3694,2878,3196
+"12005","Bay, FL","513","          Primary metal manufacturing","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","514","          Fabricated metal product manufacturing",9548,7288,8533,8809,8236,9742
+"12005","Bay, FL","515","          Machinery manufacturing",19371,22622,24375,29569,34863,30624
+"12005","Bay, FL","516","          Computer and electronic product manufacturing",7559,5792,"(D)",3301,3258,4710
+"12005","Bay, FL","517","          Electrical equipment, appliance, and component manufacturing",3888,3821,4119,4258,4555,3725
+"12005","Bay, FL","518","          Motor vehicles, bodies and trailers, and parts manufacturing",795,784,763,732,767,833
+"12005","Bay, FL","519","          Other transportation equipment manufacturing","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","521","          Furniture and related product manufacturing",2791,1765,2212,2595,2523,3343
+"12005","Bay, FL","522","          Miscellaneous manufacturing",3692,4580,7825,9188,11653,10622
+"12005","Bay, FL","530","        Nondurable goods manufacturing",66849,70135,78865,71460,75118,80360
+"12005","Bay, FL","531","          Food manufacturing",2510,2291,1949,2115,"(D)","(D)"
+"12005","Bay, FL","532","          Beverage and tobacco product manufacturing",681,607,747,"(D)",1061,1291
+"12005","Bay, FL","533","          Textile mills","(D)",-4,5,7,-9,-1
+"12005","Bay, FL","534","          Textile product mills",796,875,868,883,914,936
+"12005","Bay, FL","535","          Apparel manufacturing","(D)","(D)",1,6,"(D)","(D)"
+"12005","Bay, FL","536","          Leather and allied product manufacturing",4,-3,1,6,4,7
+"12005","Bay, FL","537","          Paper manufacturing","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","538","          Printing and related support activities",9924,9313,9236,5532,5425,5467
+"12005","Bay, FL","539","          Petroleum and coal products manufacturing","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","541","          Chemical manufacturing","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","542","          Plastics and rubber products manufacturing","(D)","(D)","(D)",455,521,"(D)"
+"12005","Bay, FL","600","      Wholesale trade",120740,131477,136418,143692,154428,157039
+"12005","Bay, FL","700","      Retail trade",337525,370149,389981,420622,431570,437097
+"12005","Bay, FL","701","        Motor vehicle and parts dealers",61689,68574,71027,77866,83615,88425
+"12005","Bay, FL","702","        Furniture and home furnishings stores",10066,11681,15133,16847,16614,17710
+"12005","Bay, FL","703","        Electronics and appliance stores",19008,26942,31083,33255,39110,35167
+"12005","Bay, FL","704","        Building material and garden equipment and supplies dealers",26324,28254,31888,38608,42611,38734
+"12005","Bay, FL","705","        Food and beverage stores",50305,50487,49679,55578,54865,57346
+"12005","Bay, FL","706","        Health and personal care stores",22745,22918,22683,25487,29011,29360
+"12005","Bay, FL","707","        Gasoline stations",17908,14507,14176,16130,16805,17462
+"12005","Bay, FL","708","        Clothing and clothing accessories stores",26209,27962,27440,28343,27633,28723
+"12005","Bay, FL","709","        Sporting goods, hobby, musical instrument, and book stores",8434,9396,10874,11918,11281,10032
+"12005","Bay, FL","711","        General merchandise stores",74907,85055,87364,88133,86253,88391
+"12005","Bay, FL","712","        Miscellaneous store retailers",12538,17936,22638,21370,15166,15977
+"12005","Bay, FL","713","        Nonstore retailers",7392,6437,5996,7087,8606,9770
+"12005","Bay, FL","800","      Transportation and warehousing",134672,135234,137033,136210,118991,120398
+"12005","Bay, FL","801","        Air transportation",6908,"(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","802","        Rail transportation",2580,2530,2925,3382,3670,3755
+"12005","Bay, FL","803","        Water transportation",10385,11199,11369,13110,5985,7820
+"12005","Bay, FL","804","        Truck transportation",15773,17531,19915,20529,20535,20349
+"12005","Bay, FL","805","        Transit and ground passenger transportation",3723,4450,3748,2613,1720,1025
+"12005","Bay, FL","806","        Pipeline transportation","(D)",64,"(D)","(D)","(D)","(D)"
+"12005","Bay, FL","807","        Scenic and sightseeing transportation",2936,3031,2868,3469,3443,3655
+"12005","Bay, FL","808","        Support activities for transportation",80428,77828,75444,70806,60584,60012
+"12005","Bay, FL","809","        Couriers and messengers","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","811","        Warehousing and storage","(D)","(D)",4523,5176,5701,5841
+"12005","Bay, FL","900","      Information",85195,94257,83958,76396,61800,40414
+"12005","Bay, FL","901","        Publishing industries (except Internet)",12106,"(D)","(D)",8915,"(D)",7257
+"12005","Bay, FL","902","        Motion picture and sound recording industries",3400,3545,3783,3879,3407,3293
+"12005","Bay, FL","903","        Broadcasting (except Internet)",32328,43084,35400,27542,14704,7931
+"12005","Bay, FL","904","        Internet publishing and broadcasting 8/","(NA)","(NA)","(NA)","(NA)","(NA)","(NA)"
+"12005","Bay, FL","905","        Telecommunications",35250,33759,32706,34791,34716,20732
+"12005","Bay, FL","906","        Data processing, hosting, and related services","(D)","(D)","(D)","(D)",795,"(D)"
+"12005","Bay, FL","907","        Other information services 8/","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","1000","      Finance and insurance",132410,143605,145226,146469,148247,160713
+"12005","Bay, FL","1001","        Monetary Authorities-central bank",0,0,0,0,0,0
+"12005","Bay, FL","1002","        Credit intermediation and related activities",79945,83304,82933,78999,75931,86865
+"12005","Bay, FL","1003","        Securities, commodity contracts, and other financial investments and related activities","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","1004","        Insurance carriers and related activities",31838,32239,32894,34639,33737,33414
+"12005","Bay, FL","1005","        Funds, trusts, and other financial vehicles","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","1100","      Real estate and rental and leasing",59265,78336,104969,138218,139415,141361
+"12005","Bay, FL","1101","        Real estate",45075,64568,89855,111959,115489,118831
+"12005","Bay, FL","1102","        Rental and leasing services","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","1103","        Lessors of nonfinancial intangible assets (except copyrighted works)","(D)","(D)","(D)","(D)","(D)","(D)"
+"12005","Bay, FL","1200","      Professional, scientific, and technical services",320245,300516,312997,328366,374302,380092
+"12005","Bay, FL","1300","      Management of companies and enterprises",18857,17134,17181,19403,20233,20880
+"12005","Bay, FL","1400","      Administrative and support and waste management and remediation services",202749,229743,266943,255464,244224,247664
+"12005","Bay, FL","1401","        Administrative and support services",185716,213691,246702,233788,222335,224167
+"12005","Bay, FL","1402","        Waste management and remediation services",17033,16052,20241,21676,21889,23497
+"12005","Bay, FL","1500","      Educational services",15029,14135,15978,17201,18348,19942
+"12005","Bay, FL","1600","      Health care and social assistance",554562,602615,615965,640862,662437,689026
+"12005","Bay, FL","1601","        Ambulatory health care services",297237,310363,334135,348389,357432,364354
+"12005","Bay, FL","1602","        Hospitals",147827,181356,175048,184130,192634,211660
+"12005","Bay, FL","1603","        Nursing and residential care facilities",59602,59065,58866,60877,63025,64386
+"12005","Bay, FL","1604","        Social assistance",49896,51831,47916,47466,49346,48626
+"12005","Bay, FL","1700","      Arts, entertainment, and recreation",31350,31570,37989,46996,52544,52824
+"12005","Bay, FL","1701","        Performing arts, spectator sports, and related industries",2189,2758,2435,5207,4398,4584
+"12005","Bay, FL","1702","        Museums, historical sites, and similar institutions",3016,3025,3715,3554,4152,4641
+"12005","Bay, FL","1703","        Amusement, gambling, and recreation industries",26145,25787,31839,38235,43994,43599
+"12005","Bay, FL","1800","      Accommodation and food services",297831,298654,321220,343416,358770,364053
+"12005","Bay, FL","1801","        Accommodation",78824,71597,69373,72980,79529,87456
+"12005","Bay, FL","1802","        Food services and drinking places",219007,227057,251847,270436,279241,276597
+"12005","Bay, FL","1900","      Other services (except government and government enterprises)",172514,172594,181499,190695,191589,202910
+"12005","Bay, FL","1901","        Repair and maintenance",45884,46165,46610,50779,50266,55283
+"12005","Bay, FL","1902","        Personal and laundry services",56227,56045,60747,62148,62427,67394
+"12005","Bay, FL","1903","        Religious, grantmaking, civic, professional, and similar organizations",63578,63149,65765,69162,70785,72663
+"12005","Bay, FL","1904","        Private households",6825,7235,8377,8606,8111,7570
+"12005","Bay, FL","2000","    Government and government enterprises",1156334,1117523,1194659,1232652,1248343,1285361
+"12005","Bay, FL","2001","      Federal civilian",366978,350182,368475,397281,410954,426952
+"12005","Bay, FL","2002","      Military",299112,313346,355963,362015,354488,367810
+"12005","Bay, FL","2010","      State and local",490244,453995,470221,473356,482901,490599
+"12005","Bay, FL","2011","        State government",106186,109521,110700,113035,112547,113331
+"12005","Bay, FL","2012","        Local government",384058,344474,359521,360321,370354,377268
+"Legend / Footnotes:"
+"1/ The estimates of earnings for 2001-2006 are based on the 2002 North American Industry Classification System (NAICS). The estimates for 2007-2010 are based on the 2007 NAICS. The estimates for 2011-2016 are based on the 2012 NAICS. The estimates for 2017 forward are based on the 2017 NAICS."
+"2/ Census Bureau midyear population estimates. Estimates for 2010-2017 reflect county population estimates available as of March 2018."
+"3/ Employer contributions for government social insurance are included in earnings by industry and earnings by place of work, but they are excluded from net earnings by place of residence and personal income. Employee and self-employed contributions are subtractions in the calculation of net earnings by place of residence and all of the income measures."
+"4/ The adjustment for residence is the net inflow of the earnings of interarea commuters. For the United States, it consists of adjustments for border workers and US residents employed by international organizations and foreign embassies."
+"5/ Rental income of persons includes the capital consumption adjustment."
+"6/ Includes actual employer contributions and actuarially imputed employer contributions to reflect benefits accrued by defined benefit pension plan participants through service to employers in the current period."
+"7/ Proprietors' income includes the inventory valuation adjustment and capital consumption adjustment."
+"8/ Under the 2007 NAICS, internet publishing and broadcasting was reclassified to other information services."
+"Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Statistics presented in thousands of dollars do not indicate more precision than statistics presented  in millions of dollars."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-03 issued April 10, 2018."
+"(D) Not shown to avoid disclosure of confidential information; estimates are included in higher-level totals."
+"(NA) Not available."
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016."
