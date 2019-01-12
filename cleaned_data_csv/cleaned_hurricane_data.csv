@@ -17,7 +17,7 @@ Hugo,1989,Sep,SC,934,120,4
 Jerry,1989,Oct,TX,983,75,1
 Bob,1991,Aug,RI,962,90,2
 Andrew,1992,Aug,FL,922,145,5
-Emily,1993,Aug,* NC,961,100,3
+Emily,1993,Aug,NC,961,100,3
 Erin,1995,Aug,FL,973,85,2
 Opal,1995,Oct,FL,942,100,3
 Bertha,1996,Jul,NC,974,90,2
@@ -28,7 +28,7 @@ Earl,1998,Sep,FL,987,70,1
 Georges,1998,Sep,FL,964,90,2
 Bret,1999,Aug,TX,951,100,3
 Floyd,1999,Sep,NC,956,90,2
-Irene,1999,Oct,* FL,964,95,2
+Irene,1999,Oct,FL,964,95,2
 Lili,2002,Oct,LA,963,80,1
 Claudette,2003,Jul,TX,979,80,1
 Isabel,2003,Sep,NC,957,90,2
@@ -50,10 +50,10 @@ Gustav,2008,Sep,LA,954,90,2
 Ike,2008,Sep,TX,950,95,2
 Irene,2011,Aug,NC,952,75,1
 Isaac,2012,Aug,LA,966,70,1
-Sandy,2012,Oct,* NY,942,65,1
+Sandy,2012,Oct,NY,942,65,1
 Arthur,2014,Jul,NC,973,85,2
 Hermine,2016,Sep,FL,981,70,1
 Matthew,2016,Oct,FL,963,85,2
 Harvey,2017,Aug,TX,937,115,4
 Irma,2017,Sep,FL,931,115,4
-Nate,2017,Oct,LA 1,983,65,1
+Nate,2017,Oct,LA,983,65,1
