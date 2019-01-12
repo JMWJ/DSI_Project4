@@ -1,0 +1,59 @@
+Name,Year,Month,Landfall Location,Centroid Pressure,Max Wind Speed,Category
+Allen,1980,Aug,TX,945,100,3
+Alicia,1983,Aug,TX,962,100,3
+Diana,1984,Sep, NC,949,95,2
+Bob,1985,Jul,SC,1003,65,1
+Danny,1985,Aug,LA,987,80,1
+Elena,1985,Sep,AL,959,100,3
+Gloria,1985,Sep,NC,942,90,3
+Juan,1985,Oct,LA,971,75,1
+Kate,1985,Nov,FL,967,85,2
+Bonnie,1986,Jun,TX,990,75,1
+Charley,1986,Aug,NC,990,65,1
+Floyd,1987,Oct,FL,993,65,1
+Florence,1988,Sep,LA,984,70,1
+Chantal,1989,Aug,TX,986,70,1
+Hugo,1989,Sep,SC,934,120,4
+Jerry,1989,Oct,TX,983,75,1
+Bob,1991,Aug,RI,962,90,2
+Andrew,1992,Aug,FL,922,145,5
+Emily,1993,Aug,* NC,961,100,3
+Erin,1995,Aug,FL,973,85,2
+Opal,1995,Oct,FL,942,100,3
+Bertha,1996,Jul,NC,974,90,2
+Fran,1996,Sep,NC,954,100,3
+Danny,1997,Jul,LA,984,70,1
+Bonnie,1998,Aug,NC,964,95,2
+Earl,1998,Sep,FL,987,70,1
+Georges,1998,Sep,FL,964,90,2
+Bret,1999,Aug,TX,951,100,3
+Floyd,1999,Sep,NC,956,90,2
+Irene,1999,Oct,* FL,964,95,2
+Lili,2002,Oct,LA,963,80,1
+Claudette,2003,Jul,TX,979,80,1
+Isabel,2003,Sep,NC,957,90,2
+Alex,2004,Aug,NC,972,70,1
+Charley,2004,Aug,FL,941,130,4
+Gaston,2004,Aug,SC,985,65,1
+Frances,2004,Sep,FL,960,90,2
+Ivan,2004,Sep,AL,946,105,3
+Jeanne,2004,Sep,FL,950,105,3
+Cindy,2005,Jul,LA,991,65,1
+Dennis,2005,Jul,FL,946,105,3
+Katrina,2005,Aug,FL,920,110,3
+Ophelia,2005,Sep,NC,982,65,1
+Rita,2005,Sep,FL,937,100,3
+Wilma,2005,Oct,FL,950,105,3
+Humberto,2007,Sep,TX,985,80,1
+Dolly,2008,Jul,TX,967,75,1
+Gustav,2008,Sep,LA,954,90,2
+Ike,2008,Sep,TX,950,95,2
+Irene,2011,Aug,NC,952,75,1
+Isaac,2012,Aug,LA,966,70,1
+Sandy,2012,Oct,* NY,942,65,1
+Arthur,2014,Jul,NC,973,85,2
+Hermine,2016,Sep,FL,981,70,1
+Matthew,2016,Oct,FL,963,85,2
+Harvey,2017,Aug,TX,937,115,4
+Irma,2017,Sep,FL,931,115,4
+Nate,2017,Oct,LA 1,983,65,1
